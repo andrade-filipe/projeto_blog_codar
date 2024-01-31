@@ -1,5 +1,7 @@
 <?php
     include_once("helper/url.php");
+    include_once("data/posts.php");
+    include_once("data/categories.php");
 ?>
 <!DOCTYPE html>
 <html lang="en">
